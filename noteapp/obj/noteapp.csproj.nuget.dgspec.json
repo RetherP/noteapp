@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\c#\\Projects\\noteapp\\noteapp\\noteapp.csproj": {}
+    "D:\\projs\\noteapp\\noteapp\\noteapp.csproj": {}
   },
   "projects": {
-    "G:\\c#\\Projects\\noteapp\\noteapp\\noteapp.csproj": {
+    "D:\\projs\\noteapp\\noteapp\\noteapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\c#\\Projects\\noteapp\\noteapp\\noteapp.csproj",
+        "projectUniqueName": "D:\\projs\\noteapp\\noteapp\\noteapp.csproj",
         "projectName": "noteapp",
-        "projectPath": "G:\\c#\\Projects\\noteapp\\noteapp\\noteapp.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\c#\\Projects\\noteapp\\noteapp\\obj\\",
+        "projectPath": "D:\\projs\\noteapp\\noteapp\\noteapp.csproj",
+        "packagesPath": "C:\\Users\\Belya-Viktor\\.nuget\\packages\\",
+        "outputPath": "D:\\projs\\noteapp\\noteapp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Belya-Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
