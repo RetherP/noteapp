@@ -18,7 +18,7 @@
                 </DataGridTemplateColumn>
             </DataGrid.Columns>
         </DataGrid>
-        <TextBox x:Name="tb1" PreviewMouseDown="TextBox_PreviewMouseDown" HorizontalAlignment="Left" Margin="318,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="498" Width="622" Text="Creative Note"/>
+        <TextBox x:Name="tb1" HorizontalAlignment="Left" Margin="318,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="498" Width="622" Text="Creative Note"/>
         <Button Content="Save" Click="Savefunc" HorizontalAlignment="Left" Margin="10,328,0,0" VerticalAlignment="Top" Height="36" Width="98"/>
         <Button Content="Open" Click="Openfunc" HorizontalAlignment="Left" Margin="11,472,0,0" VerticalAlignment="Top" Height="36" Width="97"/>
         <Button Content="Delete" Click="Deletefunc" HorizontalAlignment="Left" Margin="199,328,0,0" VerticalAlignment="Top" Height="36" Width="98"/>
